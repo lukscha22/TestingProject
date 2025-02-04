@@ -1,5 +1,7 @@
 This repository contains a simple testing project. It tests functionalities of the e-learning platform Merlin. It contains five tests. Note: o not accept or reject cookies when running tests, there is code that resolves the cookie selection. First we test the functionality when searching Merlin via Google. Secondly we test the navigation to the Merlin portal. There is a high chance for an "I Am Not A Robot" box to appear, the person running the test has time to solve the task. Next we check the functionality of the "About Merlin" button on the Merlin page. After that we test the navigation to the Login page. And lastly we check the Guest login feature. 
 
+To run the tests, run "\Merlin-Test-Project\src\test\java\MerlinTest.java".
+
 In short: 
 
 1. Searches for "Merlin" on Google.
